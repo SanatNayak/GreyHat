@@ -1238,7 +1238,7 @@ SanatNayak(){
 
 
 
-	if [[ $sanat == *"greyhatfamily"* ]]; then
+	if [[ $sanat == *"greyhatfamilyssk"* ]]; then
 		printf "Wellcome GreyHat"
 		{ clear; check_os_and_install_packages; }
 	else
