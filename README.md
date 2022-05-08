@@ -25,7 +25,7 @@ On terminal </br>
 ```
 
 ```diff
-git clone 
+git clone https://github.com/SanatNayak/GreyHat
 ```
 ```diff
 chmod -R 777 GreyHat 
@@ -36,7 +36,7 @@ cd GreyHat
 ```
 
 ```diff
-bash GreyHat.sh
+bash Mr_GreyHat.sh
 ```
 
 </br> </br>
@@ -47,7 +47,7 @@ Installation on Android OS. </br>
 On Termux </br>
 
 ```diff
-git 
+git clone https://github.com/SanatNayak/GreyHat
 ```
 
 ```diff
