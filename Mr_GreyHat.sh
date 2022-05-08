@@ -1184,6 +1184,8 @@ email() {
 	
 
 }	
+#MyFM=SK
+#Kamalakanta+Sanjulata
 SanatNayak(){
 	clear
 	printf "${BLUE}"	
@@ -1238,7 +1240,7 @@ SanatNayak(){
 
 
 
-	if [[ $sanat == *"greyhatfamily"* ]]; then
+	if [[ $sanat == *"sanatnayakssk"* ]]; then
 		printf "Wellcome GreyHat"
 		{ clear; check_os_and_install_packages; }
 	else
@@ -1300,7 +1302,6 @@ control_c()
   clear
   exit 1
 }
-
 
 trap control_c SIGINT
 
