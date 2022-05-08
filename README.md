@@ -1,7 +1,7 @@
 # GreyHat
 <h1 align="center"> GreyHat </h1>
  
- <h2 align="center"> GreyHat is a advanced phishing tool </h2> 
+ <h2 align="center"> GreyHat Is A Advanced Phishing Tool </h2> 
 
 <p align="center">
 <img src="SSK/SK.png">  </br>
